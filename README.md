@@ -21,7 +21,7 @@
 </picture>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallingtonAB&layout=compact)](https://github.com/WallingtonAB/github-readme-stats)
+
 
 
 
