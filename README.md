@@ -1,10 +1,10 @@
 ### Olá ! Meu nome é Wallington de Almeida Bruno 👋
 
 
-- 🔭 Atualmente procuro oportunidade de demonstrar o que tenho de conhecimento!
-- 🌱 Estou estudando Front-end no geral! | Cursando ADS 👾🤓
+- 🔭 Atualmente procuro oportunidade de demonstrar o que tenho de conhecimento
+- 🌱 Estou estudando Front-end no geral! | Cursando ADS
 - 📫 Pode me contatar por : wallington.bruno1@gmail.com
-- ⭐ Sonhando atualmente em mostrar meus projetos pessoais para todos !
+- ⭐ Mostrar meus projetos pessoais para todos
 
 
 
