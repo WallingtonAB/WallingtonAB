@@ -1,4 +1,4 @@
-### Olá ! Meu nome é Wallington de Almeida Bruno 👋
+### Olá ! Meu nome é Wallington de Almeida Bruno
 
 
 - 🔭 Atualmente procuro oportunidade de demonstrar o que tenho de conhecimento
