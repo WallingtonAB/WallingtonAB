@@ -7,23 +7,8 @@
 - ⭐ Mostrar meus projetos pessoais para todos
 
 
-
-<div style="display: inline_block"><br>
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=WallingtonAB&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=WallingtonAB&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=WallingtonAB&show_icons=true" />
-
-</picture>
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallingtonAB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WallingtonAB&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallingtonAB&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
