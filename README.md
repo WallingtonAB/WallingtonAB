@@ -10,8 +10,7 @@
 
 
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=WallingtonAB&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallingtonAB&show_icons=true&theme=graywhite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallingtonAB&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
