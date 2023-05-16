@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente procuro oportunidade de demonstrar o que tenho de conhecimento
-- 🌱 Estou estudando Front-end no geral! | Cursando ADS
+- 🌱 Estou estudando Front-end e back-end no geral! | Cursando ADS
 - 📫 Pode me contatar por : wallington.bruno1@gmail.com
 - ⭐ Mostrar meus projetos pessoais para todos
 
