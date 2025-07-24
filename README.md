@@ -2,16 +2,17 @@
 
 
 - 🔭 Atualmente procuro oportunidade de demonstrar o que tenho de conhecimento
-- 🌱 Estou estudando Front-end e back-end no geral! | Cursando ADS
+- 🌱 Estou estudando Front-end e back-end no geral! | Formado ADS
 - 📫 Pode me contatar por : wallington.bruno1@gmail.com
-- ⭐ Mostrar meus projetos pessoais para todos
+- ⭐ Mostrar meus projetos e crescer na area que eu amo
 
 
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WallingtonAB&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WallingtonAB&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
